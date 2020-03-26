@@ -1,4 +1,4 @@
 # testando-branch
 
-escrevi na master
+escrevi na master olá conflito
 escrevi na nova branch
